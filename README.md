@@ -1,3 +1,5 @@
+Site hosted on https://jamstack-explorers-nuxt-mission2.netlify.app/mars/
+
 # [This Mission: Get Started with Nuxt](https://explorers.netlify.com/learn/get-started-with-nuxt)
 
 ![Nuxt Mission](https://res.cloudinary.com/debsobrien/image/upload/g_auto,e_sharpen/v1610040385/debbie.codes/courses/Screenshot_2021-01-07_at_18.25.19_fzha5x.png)
